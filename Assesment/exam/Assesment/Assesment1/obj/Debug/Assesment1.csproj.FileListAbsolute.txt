@@ -1,0 +1,6 @@
+D:\HTMLoffice\Assesment\exam\Assesment\Assesment1\bin\Debug\Assesment1.exe.config
+D:\HTMLoffice\Assesment\exam\Assesment\Assesment1\bin\Debug\Assesment1.exe
+D:\HTMLoffice\Assesment\exam\Assesment\Assesment1\bin\Debug\Assesment1.pdb
+D:\HTMLoffice\Assesment\exam\Assesment\Assesment1\obj\Debug\Assesment1.csproj.CoreCompileInputs.cache
+D:\HTMLoffice\Assesment\exam\Assesment\Assesment1\obj\Debug\Assesment1.exe
+D:\HTMLoffice\Assesment\exam\Assesment\Assesment1\obj\Debug\Assesment1.pdb

@@ -1,0 +1,10 @@
+D:\HTMLoffice\Assesment\exam\exam2\exam2\bin\Debug\exam2.exe.config
+D:\HTMLoffice\Assesment\exam\exam2\exam2\bin\Debug\exam2.exe
+D:\HTMLoffice\Assesment\exam\exam2\exam2\bin\Debug\exam2.pdb
+D:\HTMLoffice\Assesment\exam\exam2\exam2\obj\Debug\exam2.csprojAssemblyReference.cache
+D:\HTMLoffice\Assesment\exam\exam2\exam2\obj\Debug\exam2.csproj.CoreCompileInputs.cache
+D:\HTMLoffice\Assesment\exam\exam2\exam2\obj\Debug\exam2.exe
+D:\HTMLoffice\Assesment\exam\exam2\exam2\obj\Debug\exam2.pdb
+D:\HTMLoffice\Assesment\exam\exam2\exam2\bin\Debug\Newtonsoft.Json.dll
+D:\HTMLoffice\Assesment\exam\exam2\exam2\bin\Debug\Newtonsoft.Json.xml
+D:\HTMLoffice\Assesment\exam\exam2\exam2\obj\Debug\exam2.csproj.CopyComplete
